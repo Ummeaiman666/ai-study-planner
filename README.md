@@ -6,10 +6,10 @@ An AI-powered study planner that generates smart schedules based on deadlines an
 - Smart scheduling
 - Priority-based planning
 - Simple UI (Streamlit)
-
+## 🌐 Live Demo
+https://ai-study-planner-6ckk4nmq8djcqzxbl3pxm3.streamlit.app/
 ## ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## 🌐 Live Demo
-https://ai-study-planner-6ckk4nmq8djcqzxbl3pxm3.streamlit.app/
+
